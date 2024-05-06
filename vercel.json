@@ -1,3 +1,6 @@
 {
-  "redirects": [{ "source": "/python", "destination": "/api" }]
+  "redirects": [
+    { "source": "/python", "destination": "/api/python" },
+    { "source": "/ruby", "destination": "/api/ruby" }
+  ]
 }
